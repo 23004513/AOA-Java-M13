@@ -1,6 +1,6 @@
 
 # EX 3D Sudoku solver - Backtracking.
-## DATE:
+## DATE:15/09/25
 ## AIM:
 To write a Java program to solve a Sudoku puzzle by filling the empty cells.
 
@@ -10,7 +10,7 @@ For example:
 
 
 ## Algorithm
-1. Start and read the 9×9 Sudoku grid (use 0 for empty cells).
+1.Start and read the 9×9 Sudoku grid (use 0 for empty cells).
 
 2.Find the next empty cell in the board.
 
