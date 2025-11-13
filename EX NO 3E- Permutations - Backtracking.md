@@ -1,6 +1,6 @@
 
 # EX 3E Generate Permutations using Backtracking  Approach.
-## DATE:
+## DATE:18/09/25
 ## AIM:
 To write a Java program to for given constraints.
 Given an array nums of distinct integers, return all the possible Permutation. You can return the answer in any order.
@@ -9,7 +9,7 @@ Input: nums = [1,2,3]
 Output: [[1,2,3],[1,3,2],[2,1,3],[2,3,1],[3,1,2],[3,2,1]]
 For example:
 ## Algorithm
-1. Start and read the array of numbers.
+1.Start and read the array of numbers.
 
 2.Use a recursive backtracking function to build permutations.
 
